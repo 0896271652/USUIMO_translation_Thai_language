@@ -416,7 +416,7 @@
             "Tỏa ra mùi đào khiến chỉ cần ngửi thôi cũng cảm thấy chóng mặt..."
         ],
         "ability": [
-            "Ban trạng thái Nứng khi cho \\str[120] ăn"
+            "Khi cho \\str[120] ăn sẽ nhận được trạng thái Rạo Rực"
         ]
     },
     "31": {
@@ -431,7 +431,7 @@
             "Tỏa ra mùi việt quất khiến chỉ cần ngửi thôi cũng cảm thấy bình tĩnh..."
         ],
         "ability": [
-            "Ban trạng thái Mơ Màng khi cho \\str[120] ăn"
+            "Khi cho \\str[120] ăn sẽ nhận được trạng thái Mơ Màng"
         ]
     },
     "32": {
@@ -446,7 +446,7 @@
             "Tỏa ra mùi dưa lưới khiến chỉ cần ngửi thôi cũng cảm thấy phấn chấn..."
         ],
         "ability": [
-            "Ban trạng thái Hân Hoan khi cho \\str[120] ăn"
+            "Khi cho \\str[120] ăn sẽ nhận được trạng thái Hân Hoan"
         ]
     },
     "33": {
