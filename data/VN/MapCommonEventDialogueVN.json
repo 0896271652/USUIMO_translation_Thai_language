@@ -17,6 +17,7 @@
             "Nhập đúng mã gian lận để mở khóa các tính năng tương ứng!"
         ]
     },
+    "bulkSelectButton": "Click to toggle bulk selection",
     "usingItem": {
         "0": [
             "Đã lấy ra \\ii[\\v[90]]  ",

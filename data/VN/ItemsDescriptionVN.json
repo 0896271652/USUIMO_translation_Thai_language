@@ -47,6 +47,7 @@
             "10 Yên"
         ],
         "subtitle": "",
+        "beIndependent": true,
         "description": [
             "Chỉ là một đồng xu trị giá 10 Yên",
             "Nên chả mua được gì với nó cả."
@@ -58,6 +59,7 @@
             "50 Yên"
         ],
         "subtitle": "",
+        "beIndependent": true,
         "description": [
             "Chỉ là một đồng xu trị giá 50 Yên",
             "Vẫn chưa thể mua được gì với nó...nhưng để mất thì cũng khá sót"
@@ -69,6 +71,7 @@
             "100 Yên"
         ],
         "subtitle": "",
+        "beIndependent": true,
         "description": [
             "Chỉ là một đồng xu trị giá 100 Yên",
             "Với một chút may mắn, nó có thể đủ để mua ",
@@ -81,6 +84,7 @@
             "500 Yên"
         ],
         "subtitle": "",
+        "beIndependent": true,
         "description": [
             "Chỉ là một đồng xu trị giá 500 Yên",
             "Nếu bỏ nó vào máy gacha...có lẽ-có lẽ...",
@@ -93,6 +97,7 @@
             "1000 Yên"
         ],
         "subtitle": "",
+        "beIndependent": true,
         "description": [
             "Chỉ là tờ tiền trị giá 1000 Yên",
             "Không ai biết tại sao quái vật lại đi thu thập ",
@@ -105,6 +110,7 @@
             "5000 Yên"
         ],
         "subtitle": "",
+        "beIndependent": true,
         "description": [
             "Chỉ là tờ tiền trị giá 5000 Yên",
             "Ai nhìn thấy cũng không khỏi giao động,",
@@ -117,6 +123,7 @@
             "10000 Yên"
         ],
         "subtitle": "",
+        "beIndependent": true,
         "description": [
             "Chỉ là tờ tiền 10000 Yên",
             "Đến cả máy gacha cũng phải mỉm cười trước giá trị này—"
@@ -128,6 +135,7 @@
             "50000 Yên"
         ],
         "subtitle": "",
+        "beIndependent": true,
         "description": [
             "Một xấp dày những tờ tiền 5000 Yên",
             "Khi các cô Thỏ Hầu Gái mở rộng buôn bán nhanh chóng",
@@ -141,6 +149,7 @@
             "100000 Yên"
         ],
         "subtitle": "",
+        "beIndependent": true,
         "description": [
             "Một xấp đầy những tờ tiền 10000 Yên",
             "Mùi hương của sự giáu có này thậm chí có thể khiến",
@@ -341,7 +350,7 @@
             "tại sao ở đây lại có một cái máy nước tự động nhỉ?"
         ],
         "ability": [
-            "HP+120, nhận trạng thái Ngon!!"
+            "HP+120. Temporarily grants Regeneration"
         ]
     },
     "24": {
@@ -356,7 +365,7 @@
             "tại sao ở đây lại có một cái máy nước tự động nhỉ?"
         ],
         "ability": [
-            "HP+75, ngẫu nhiên loại bỏ 1 trạng thái bất lợi"
+            "HP+75. Randomly removes one status ailment"
         ]
     },
     "25": {
@@ -371,7 +380,7 @@
             "tại sao ở đây lại có một cái máy nước tự động nhỉ?"
         ],
         "ability": [
-            "HP+75, Tấn công+50% trong một khoảng thời gian"
+            "HP+75. Temporarily increases Physical Attack by 50%"
         ]
     },
     "26": {
@@ -386,7 +395,7 @@
             "tại sao ở đây lại có một cái máy nước tự động nhỉ?"
         ],
         "ability": [
-            "HP+75, Phép thuật+50% trong một khoảng thời gian"
+            "HP+75. Temporarily increases Magic Attack by 50%"
         ]
     },
     "27": {
@@ -401,7 +410,7 @@
             "tại sao ở đây lại có một cái máy nước tự động nhỉ?"
         ],
         "ability": [
-            "HP+75, Tăng tốc độ di chuyển trong một khoảng thời gian"
+            "HP+75. Temporarily increases Attack Speed and Movement Speed"
         ]
     },
     "30": {
@@ -461,6 +470,7 @@
             "Khi chạm vào lưỡi sẽ tạo ra một cú sốc khó tin được!"
         ],
         "ability": [
+            "Grants Sensitive status when fed to \\str[120]",
             "Khi ném ra, mục tiêu ăn phải sẽ tăng độ nhạy cảm tạm thời "
         ]
     },
@@ -476,7 +486,7 @@
             "tại sao ở đây lại có một cái máy nước tự động nhỉ?"
         ],
         "ability": [
-            "Lắc mạnh có thể gây ra phun trào"
+            "Shake vigorously and throw to trigger a massive explosion"
         ]
     },
     "41": {
@@ -565,8 +575,8 @@
             "\"Sự tò mò vô tận của một nhà phiêu lưu ngu ngốc\""
         ],
         "description": [
-            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
-            "cũng có thể dễ dàng kích hoạt hiệu ứng."
+            "Một lá bài ma thuật được truyền ma pháp.",
+            "Thiết kế sao cho ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng."
         ],
         "ability": [
             "Sử dụng sẽ ép bạn dịch chuyển ngẫu nhiên đến một bản đồ khác"
@@ -580,8 +590,8 @@
             "\"Mong ngươi nhận được ân sủng của nàng...\""
         ],
         "description": [
-            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
-            "cũng có thể dễ dàng kích hoạt hiệu ứng."
+            "Một lá bài ma thuật được truyền ma pháp.",
+            " Thiết kế sao cho ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng."
         ],
         "ability": [
             "Khi sử dụng, triệu hồi một cánh cổng dẫn đến Thánh Đường Sa Ngã"
@@ -595,11 +605,26 @@
             "\"Uy nghiêm của rồng, bất khả xâm phạm\""
         ],
         "description": [
-            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
-            "cũng có thể dễ dàng kích hoạt hiệu ứng."
+            "Một lá bài ma thuật được truyền ma pháp.",
+            " Thiết kế sao cho ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng."
         ],
         "ability": [
             "Triệu hồi Tiếng Gầm của Rồng làm choáng tất cả kẻ địch trên một khu vực"
+        ]
+    },
+    "51": {
+        "name": [
+            "The Hierophant"
+        ],
+        "subtitle": [
+            "\"The Time of Awakening is Nigh\""
+        ],
+        "description": [
+            "A magic card imbued with spells",
+            "Designed so even novices can easily activate its effects"
+        ],
+        "ability": [
+            "When used, grants Mind's Eye and Sage Mode statuses"
         ]
     },
     "52": {
@@ -610,8 +635,8 @@
             "\"Hương Thơm Lưu Luyến Của Phù Thủy\""
         ],
         "description": [
-            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
-            "cũng có thể dễ dàng kích hoạt hiệu ứng."
+            "Một lá bài ma thuật được truyền ma pháp.",
+            "Thiết kế sao cho ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng."
         ],
         "ability": [
             "Triệu hồi quái vật và khiến chúng cuồng loạn trong thời gian ngắn"
@@ -625,8 +650,8 @@
             "\"Sẵn sàng phục vụ! Chuyển Phát Địa Ngục!\""
         ],
         "description": [
-            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
-            "cũng có thể dễ dàng kích hoạt hiệu ứng."
+            "Một lá bài ma thuật được truyền ma pháp.",
+            " Thiết kế sao cho ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng."
         ],
         "ability": [
             "Khi sử dụng, một chiếc xe tải NLCH đâm vào người chơi"
@@ -640,8 +665,8 @@
             "\"Giải phóng sức mạnh của Chiến Binh Thần Khổng Lồ\""
         ],
         "description": [
-            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
-            "cũng có thể dễ dàng kích hoạt hiệu ứng."
+            "Một lá bài ma thuật được truyền ma pháp.",
+            "Thiết kế sao cho ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng."
         ],
         "ability": [
             "Vũ khí cận chiến tạm thời to ra và tăng tấn công"
@@ -655,8 +680,8 @@
             "\"Roulette Cá Cược Linh Hồn\""
         ],
         "description": [
-            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
-            "cũng có thể dễ dàng kích hoạt hiệu ứng."
+            "Một lá bài ma thuật được truyền ma pháp.",
+            "Thiết kế sao cho ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng."
         ],
         "ability": [
             "Khi sử dụng, nhận một hiệu ứng có lợi hoặc bất lợi ngẫu nhiên"
@@ -670,8 +695,8 @@
             "\"Tro về với tro, bụi về với bụi\""
         ],
         "description": [
-            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
-            "cũng có thể dễ dàng kích hoạt hiệu ứng."
+            "Một lá bài ma thuật được truyền ma pháp.",
+            " Thiết kế sao cho ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng."
         ],
         "ability": [
             "Khi sử dụng, loại bỏ tất cả trạng thái khỏi người chơi"
@@ -685,8 +710,8 @@
             "\"Đích đến của mọi sinh mệnh là cái chết\""
         ],
         "description": [
-            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
-            "cũng có thể dễ dàng kích hoạt hiệu ứng"
+            "Một lá bài ma thuật được truyền ma pháp.",
+            "Thiết kế sao cho ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
         ],
         "ability": [
             "Khi sử dụng, sức mạnh của Tử Thần sẽ hiện diện tại đây"
@@ -700,8 +725,8 @@
             "\"Chiếc Hộp Pandora của Vực Sâu\""
         ],
         "description": [
-            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
-            "cũng có thể dễ dàng kích hoạt hiệu ứng"
+            "Một lá bài ma thuật được truyền ma pháp.",
+            "Thiết kế sao cho ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
         ],
         "ability": [
             "Khi sử dụng, triệu hồi một máy gacha"
@@ -715,8 +740,8 @@
             "\"Lời mời đến yến tiệc Vực Sâu\""
         ],
         "description": [
-            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
-            "cũng có thể dễ dàng kích hoạt hiệu ứng"
+            "Một lá bài ma thuật được truyền ma pháp.",
+            "Thiết kế sao cho ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
         ],
         "ability": [
             "Khi sử dụng, triệu hồi Trụ Phong Ấn"
@@ -730,8 +755,8 @@
             "\"Ngôi sao là ngọn hải đăng dẫn lối về nhà\""
         ],
         "description": [
-            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
-            "cũng có thể dễ dàng kích hoạt hiệu ứng"
+            "Một lá bài ma thuật được truyền ma pháp.",
+            "Thiết kế sao cho ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
         ],
         "ability": [
 			"Triệu hồi Cửa Thiên Tinh gần người chơi để trở về điểm xuất phát"
@@ -745,8 +770,8 @@
             "\"Tái sinh từ tro tàn\""
         ],
         "description": [
-            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
-            "cũng có thể dễ dàng kích hoạt hiệu ứng"
+            "Một lá bài ma thuật được truyền ma pháp.",
+            "Thiết kế sao cho ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
         ],
         "ability": [
             "Khi sử dụng, ban phép lành của Hỏa Điểu"
@@ -760,8 +785,8 @@
             " \"Mời bạn đến với thế giới vườn mini bí ẩn...\""
         ],
         "description": [
-            "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
-            "cũng có thể dễ dàng kích hoạt hiệu ứng"
+            "Một lá bài ma thuật được truyền ma pháp.",
+            "Thiết kế sao cho ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
         ],
         "ability": [
             "Đặt lại đồng hồ đếm ngược cho các sự kiện liên quan đến rơi đồ"

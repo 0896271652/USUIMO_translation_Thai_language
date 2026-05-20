@@ -43,6 +43,21 @@
             ""
         ]
     },
+    "4": {
+        "name": [
+            "Hunter's Shoes"
+        ],
+        "subtitle": "",
+        "description": [
+            "Boots crafted from thick hide and wooden soles, ",
+            "lined with a soft fur layer to muffle every footstep",
+            "Silent movement is the hunter's first step"
+        ],
+        "ability": [
+            "Increases movement speed while drawing the bow",
+            "Grants \\ss[10] skill effect while equipped"
+        ]
+    },
     "5": {
         "name": [
             "Găng Tay Bảo Hộ"
@@ -710,6 +725,21 @@
         ],
         "ability": [
             "Thu hút hải âu đến cướp khoai tây của bạn"
+        ]
+    },
+    "51": {
+        "name": [
+            "Hunter's Gloves"
+        ],
+        "subtitle": "",
+        "description": [
+            "Gloves crafted from tanned hide, ",
+            "with reinforced fingertips designed for extended use of the bow",
+            "Old hunters believe that a good pair of gloves gives arrows eyes of their own"
+        ],
+        "ability": [
+            "Arrows fired gain 2 additional Penetration hits",
+            "Shots have a small chance to fire multiple arrows simultaneously"
         ]
     },
     "52": {
