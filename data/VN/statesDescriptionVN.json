@@ -650,10 +650,11 @@
 	"83": {
 		"name": [],
 		"subtitle": [
-			"\"That look in his eyes just got sharp all of a sudden...!\""
+			"\"Ánh mắt đó nhiên trở nên sắc bén hẳn...!\""
 		],
 		"description": [
-			"Physical attacks gain Penetration, ignoring a portion of the target's defense"
+			"Các đòn sát thương vật lý nhận hiệu ứng Xuyên Phá",
+			"Bỏ qua một phần phòng thủ của mục tiêu"
 		]
 	},
 	"85": {
@@ -812,10 +813,10 @@
 	"123": {
 		"name": [],
 		"subtitle": [
-			"\"One who pursues prey must be prepared to become prey themselves.\""
+			"\"Kẻ săn đuổi con mồi cũng phải sẵn sàng trở thành con mồi.\""
 		],
 		"description": [
-			"All Hunter series equipment has been enhanced!"
+			"Toàn bộ trang bị thuộc bộ Thợ Săn đã được cường hóa!"
 		]
 	}
 }

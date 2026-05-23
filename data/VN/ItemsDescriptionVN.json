@@ -350,7 +350,7 @@
             "tại sao ở đây lại có một cái máy nước tự động nhỉ?"
         ],
         "ability": [
-            "HP+120. Temporarily grants Regeneration"
+            "HP+120. Tạm thời nhận hiệu ứng Hồi Phục"
         ]
     },
     "24": {
@@ -365,7 +365,7 @@
             "tại sao ở đây lại có một cái máy nước tự động nhỉ?"
         ],
         "ability": [
-            "HP+75. Randomly removes one status ailment"
+            "HP+75. Ngẫu nhiên loại bỏ một hiệu ứng trạng thái bất lợi"
         ]
     },
     "25": {
@@ -380,7 +380,7 @@
             "tại sao ở đây lại có một cái máy nước tự động nhỉ?"
         ],
         "ability": [
-            "HP+75. Temporarily increases Physical Attack by 50%"
+            "HP+75. Tạm thời tăng 50% Sát thương Vật lý"
         ]
     },
     "26": {
@@ -395,7 +395,7 @@
             "tại sao ở đây lại có một cái máy nước tự động nhỉ?"
         ],
         "ability": [
-            "HP+75. Temporarily increases Magic Attack by 50%"
+            "HP+75. Tạm thời tăng 50% Sát thương Ma thuật"
         ]
     },
     "27": {
@@ -410,7 +410,7 @@
             "tại sao ở đây lại có một cái máy nước tự động nhỉ?"
         ],
         "ability": [
-            "HP+75. Temporarily increases Attack Speed and Movement Speed"
+            "HP+75. Tạm thời tăng Tốc độ Đánh và Tốc độ Di chuyển"
         ]
     },
     "30": {
@@ -486,7 +486,7 @@
             "tại sao ở đây lại có một cái máy nước tự động nhỉ?"
         ],
         "ability": [
-            "Shake vigorously and throw to trigger a massive explosion"
+            "Lắc mạnh rồi ném để kích hoạt một vụ nổ cực lớn"
         ]
     },
     "41": {
@@ -614,17 +614,17 @@
     },
     "51": {
         "name": [
-            "The Hierophant"
+            "Giáo Hoàng"
         ],
         "subtitle": [
-            "\"The Time of Awakening is Nigh\""
+            "\"Thời Khắc Thức Tỉnh Đã Cận Kề\""
         ],
         "description": [
-            "A magic card imbued with spells",
-            "Designed so even novices can easily activate its effects"
+            "Một lá bài ma thuật được truyền ma pháp.",
+            "Thiết kế sao cho ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng."
         ],
         "ability": [
-            "When used, grants Mind's Eye and Sage Mode statuses"
+            "Khi được sử dụng, sẽ nhận được trạng thái Chế độ Hiền Giả và Mắt Tâm Trí"
         ]
     },
     "52": {
