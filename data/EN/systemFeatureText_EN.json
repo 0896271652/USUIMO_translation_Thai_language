@@ -119,9 +119,9 @@
     "New patch content for ${} has been successfully installed and will take effect upon the next restart."
   ],
   "outdatedVersionWarning": [
-    "Your current game version is outdated. The latest version is ${}.",
-    "Major version updates do not support automatic updates. ",
-    "Please re-download the game from the official source."
+    "The current game version has expired. The latest version is ${}.",
+    "Major automatic updates are now available, but exclusively for users who have completed the official ownership verification system. ",
+    "If you cannot complete the verification, you will still need to redownload the game from official channels to update."
   ],
   "renameCharacter": [
     "I remember now—",
