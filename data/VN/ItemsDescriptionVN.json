@@ -2940,13 +2940,65 @@
         ],
         "beIndependent": true,
         "subtitle": [
-            "\"Ta hiểu rồi... cậu nói trò chơi quá khó sao?\"",
-            "\"Nếu cậu không phiền, ta có thể cho cậu biết một phương pháp đặc biệt...\""
+            "\"Ta hiểu rồi... cậu nói trò chơi quá khó sao?",
+            "Nếu cậu không phiền, ta có thể cho cậu biết một phương pháp đặc biệt...\""
         ],
         "description": [
             "Một mã bí ẩn được Hiệp sĩ cung cấp.",
             "Nó ngay lập tức cải thiện trải nghiệm chơi game, nhưng cái giá phải trả là gì?"
         ],
         "ability": ""
+    },
+    "411": {
+        "name": [
+            "Gathering Tales"
+        ],
+        "beIndependent":true,
+        "subtitle": [
+            "\"Guess I'll look for hidden paths...\""
+        ],
+        "description": [
+            "Promised a strange knight to collect interesting stories from the adventure.",
+            "But then again, what even qualifies as 'interesting'...?",
+            "Oh well, maybe some inspiration will strike if I just wander around a bit more—"
+        ],
+        "ability": [
+            "Tales Reported: \\c[6]${$gameNumberArray.value(37).length}"
+        ]
+    },
+    "412": {
+        "name": [
+            "For \\str[120]"
+        ],
+        "beIndependent":true,
+        "subtitle": [
+            "\"Keep exploring into the deeper layers of the Abyss—\""
+        ],
+        "description": [
+            "To cure the constitution of \\str[120], ",
+            "I must search the Abyss for the Philosopher's stone, ",
+            "an ingredient for the legendary medicine."
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "500": {
+        "name": [
+            "Hidden Quest Guide"
+        ],
+        "beIndependent":true,
+        "subtitle": [
+            "\"Just read through the entire guide and beating the game will be a breeze——",
+            " But that's... HOW ZAKOS THINK.",
+            " In this save file, I'm going to permadeath-run the whole thing!\""
+        ],
+        "description": [
+            "In a certain worldline, a player left behind this bold proclamation...",
+            "and charged headfirst into the Tower without a single regret."
+        ],
+        "ability": [
+            "Hidden Quest Guidance Text"
+        ]
     }
 }
