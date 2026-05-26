@@ -43,6 +43,21 @@
             ""
         ]
     },
+    "4": {
+        "name": [
+            "Giày Thợ Săn"
+        ],
+        "subtitle": "",
+        "description": [
+            "Đôi giày được chế tác từ da dày và đế gỗ, ",
+            "bên trong lót một lớp lông mềm giúp giảm tiếng động của từng bước chân",
+            "Di chuyển trong im lặng chính là bước đầu tiên của một thợ săn"
+        ],
+        "ability": [
+            "Tăng tốc độ di chuyển khi giương cung",
+            "Nhận hiệu ứng kỹ năng \\ss[10] khi trang bị"
+        ]
+    },
     "5": {
         "name": [
             "Găng Tay Bảo Hộ"
@@ -710,6 +725,21 @@
         ],
         "ability": [
             "Thu hút hải âu đến cướp khoai tây của bạn"
+        ]
+    },
+    "51": {
+        "name": [
+            "Găng Tay Thợ Săn"
+        ],
+        "subtitle": "",
+        "description": [
+            "Găng tay được chế tác từ da thuộc, với phần đầu ngón được gia cố để phục vụ",
+            "việc sử dụng cung trong thời gian dài. Những thợ săn lão luyện tin rằng",
+            "một đôi găng tốt sẽ khiến mũi tên như có đôi mắt của riêng mình"
+        ],
+        "ability": [
+            "Các mũi tên bắn ra nhận thêm 2 lần xuyên mục tiêu",
+            "Phát bắn có tỉ lệ nhỏ bắn ra nhiều mũi tên cùng lúc"
         ]
     },
     "52": {

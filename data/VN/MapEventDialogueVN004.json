@@ -1254,6 +1254,11 @@
             "Huh?",
 			"Sau quả đấy mà em ấy vẫn chưa tỉnh luôn à…?",
 			"Mình có nên… làm lại lần nữa không nhỉ…?"
+        ],
+        "25": [
+            "\\nl< >\"Ueeegh...",
+            "It's so strange... my whole body feels so itchy...",
+            "Even my clothes rubbing against my skin makes me feel all tingly...\""
         ]
     },	
     "18": {
@@ -2532,7 +2537,7 @@
 		],
         "10": [
             "À đúng rồi, ",
-			"mình còn lấy được đồ ăn vặt từ con nhỏ chủ cửa hàng láu cá đó...",
+			"mình còn lấy được ít đồ ăn vặt từ con nhỏ chủ cửa hàng láu cá đó...",
 			"mình có nên cho \\str[120] thử không nhỉ?"
 		],
         "11": [
