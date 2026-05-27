@@ -165,7 +165,7 @@
         "subtitle": "",
         "description": [
             "Một tấm bản đồ được các Thỏ Hầu Gái sử dụng, vẫn còn dính vụn cà rốt.",
-			"Chúng đào những Hố Thỏ và di chuyển khắp nơi — gần như một đội shipper thực thụ.",
+			"Chúng đào những Hố Thỏ và di chuyển khắp nơi—gần như một đội shipper thực thụ.",
             "Kể từ khi người lãnh đạo quỷ quyệt và sắc sảo xuất hiện cách đây mười năm,",
             "bầy thỏ đã chiếm lĩnh Vực Sâu và bắt đầu giao thương với quái vật."
         ],
@@ -470,8 +470,8 @@
             "Khi chạm vào lưỡi sẽ tạo ra một cú sốc khó tin được!"
         ],
         "ability": [
-            "Grants Sensitive status when fed to \\str[120]",
-            "Khi ném ra, mục tiêu ăn phải sẽ tăng độ nhạy cảm tạm thời "
+            "Khi cho \\str[120] ăn sẽ khiến em ấy trở nên Nhạy Cảm",
+            "Khi ném ra, mục tiêu ăn phải sẽ tăng độ Nhạy Cảm tạm thời "
         ]
     },
     "35": {
@@ -835,6 +835,21 @@
         ],
         "ability": ""
     },
+    "74": {
+        "name": [
+            "Bẫy Gấu"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một chiếc bẫy kim loại có gai với lò xo cực mạnh. Khi kích hoạt, cú cắn của nó ",
+            "vô cùng đáng sợ! Dù ban đầu được tạo ra để săn loại thú nào đi nữa, ",
+            "mục tiêu của nó giờ đây rõ ràng đã chuyển sang những kẻ xui xẻo trong Vực Sâu"
+        ],
+        "ability": [
+            "Đặt một bẫy gấu dưới chân bạn",
+            "Sẽ kích hoạt bất cứ khi nào có sinh vật không biết bay đi ngang qua nó"
+        ]
+    },  
     "75": {
         "name": [
             "Đồng Hồ Phong Ấn"
@@ -2951,33 +2966,33 @@
     },
     "411": {
         "name": [
-            "Gathering Tales"
+            "Thu Chập Câu Chuyện"
         ],
         "beIndependent":true,
         "subtitle": [
-            "\"Guess I'll look for hidden paths...\""
+            "\"Chắc mình sẽ thử tìm các con đường bí mật vậy...\""
         ],
         "description": [
-            "Promised a strange knight to collect interesting stories from the adventure.",
-            "But then again, what even qualifies as 'interesting'...?",
-            "Oh well, maybe some inspiration will strike if I just wander around a bit more—"
+            "Đã hứa với hiệp sĩ kỳ lạ rằng sẽ thu thập những câu chuyện thú vị trong chuyến",
+            "phiêu lưu. Nhưng mà nghĩ lại thì, thế nào mới được xem là 'thú vị' chứ...?",
+            "Thôi vậy, biết đâu lang thang thêm một chút thì mình sẽ nảy ra ý tưởng nào đó—"
         ],
         "ability": [
-            "Tales Reported: \\c[6]${$gameNumberArray.value(37).length}"
+            "Số câu chuyện đã báo cáo: \\c[6]${$gameNumberArray.value(37).length}"
         ]
     },
     "412": {
         "name": [
-            "For \\str[120]"
+            "Dành cho \\str[120]"
         ],
         "beIndependent":true,
         "subtitle": [
-            "\"Keep exploring into the deeper layers of the Abyss—\""
+            "\"Tiếp tục thám hiểm vào những tầng đen tối hơn của Vực Sâu nào—\""
         ],
         "description": [
-            "To cure the constitution of \\str[120], ",
-            "I must search the Abyss for the Philosopher's stone, ",
-            "an ingredient for the legendary medicine."
+            "Để chữa trị thể chất đặc biệt của \\str[120], ",
+            "tôi phải tìm trong Vực Sâu để lấy viên Đá Hiền Triết, ",
+            "một nguyên liệu của phương thuốc huyền thoại."
         ],
         "ability": [
             ""
@@ -2985,20 +3000,20 @@
     },
     "500": {
         "name": [
-            "Hidden Quest Guide"
+            "Hướng Dẫn Nhiệm Vụ Ẩn"
         ],
         "beIndependent":true,
         "subtitle": [
-            "\"Just read through the entire guide and beating the game will be a breeze——",
-            " But that's... HOW ZAKOS THINK.",
-            " In this save file, I'm going to permadeath-run the whole thing!\""
+            "\"Chỉ cần đọc hết cuốn hướng dẫn này thì phá đảo trò chơi sẽ dễ như trở bàn tay",
+            " Nhưng đó là... Suy Nghĩ Của Đám ZAKO.",
+            " Trong file lưu này, mình sẽ chơi theo kiểu permadeath-run đến hết game!\""
         ],
         "description": [
-            "In a certain worldline, a player left behind this bold proclamation...",
-            "and charged headfirst into the Tower without a single regret."
+            "Ở một dòng thời gian nào đó, có một người chơi đã để lại lời tuyên bố đầy",
+            "táo bạo này... rồi lao đầu tiến vào Tòa Tháp mà không hề có lấy một chút hối hận."
         ],
         "ability": [
-            "Hidden Quest Guidance Text"
+            "Văn bản hướng dẫn nhiệm vụ ẩn"
         ]
     }
 }
