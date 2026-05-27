@@ -432,8 +432,8 @@
 		"name": [],
 		"subtitle": [],
 		"description": [
-			"✦Not so much 'Joy'... ",
-			"as she's in a total 'HIGH' now!"
+			"✦Không hẳn là 'Hân Hoan' nữa... ",
+			"mà em ấy đang cực kỳ 'vui sướng'!"
 		]
   	},
 	"45": {
@@ -647,6 +647,16 @@
 			""
 		]
 	},
+	"83": {
+		"name": [],
+		"subtitle": [
+			"\"Ánh mắt đó nhiên trở nên sắc bén hẳn...!\""
+		],
+		"description": [
+			"Các đòn sát thương vật lý nhận hiệu ứng Xuyên Phá",
+			"Bỏ qua một phần phòng thủ của mục tiêu"
+		]
+	},
 	"85": {
 		"name": [],
 		"subtitle": [
@@ -799,5 +809,14 @@
 		"description": [
 			"Tự động hồi phục HP vĩnh viễn."
 		]
-  	}
+  	},
+	"123": {
+		"name": [],
+		"subtitle": [
+			"\"Kẻ săn đuổi con mồi cũng phải sẵn sàng trở thành con mồi.\""
+		],
+		"description": [
+			"Toàn bộ trang bị thuộc bộ Thợ Săn đã được cường hóa!"
+		]
+	}
 }

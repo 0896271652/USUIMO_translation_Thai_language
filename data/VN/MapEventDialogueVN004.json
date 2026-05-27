@@ -1254,6 +1254,11 @@
             "Huh?",
 			"Sau quả đấy mà em ấy vẫn chưa tỉnh luôn à…?",
 			"Mình có nên… làm lại lần nữa không nhỉ…?"
+        ],
+        "25": [
+            "\\nl< >\"Ueeegh...",
+            "Kỳ lạ quá... cả cơ thể em cứ ngứa ngáy sao ấy...",
+            "Ngay cả quần áo cọ vào da cũng làm em thấy tê tê nữa...\""
         ]
     },	
     "18": {
@@ -1513,8 +1518,8 @@
 			"Không, nếu cứ thế này thì—"
         ],
         "17": [
-            "\\nl< >\"Đúng vậy.",
-			"\\str[121], anh lúc nào cũng xuất hiện vì em.  \\w[300]",
+            "\\nl< >\"Là vậy đó.",
+			"\\str[121], anh lúc nào cũng xuất hiện vì em cả.  \\w[300]",
 			"\\{Cảm ơn anh! Và chúc ngủ ngon—!     \\}\"\\w[120]\\^"
         ],
         "18": [
@@ -1532,7 +1537,7 @@
         ],
         "22": [
             "\\nl< >\"Khôngoo—! Khuôn mặt của anh đáng sợ quá,",
-			"\\str[121]! Đừng lại gần em!!\""
+			"\\str[121]! Đừng có lại gần em!!\""
         ],	
         "23": [
             "\"Để anh giải thích—!",
@@ -2532,7 +2537,7 @@
 		],
         "10": [
             "À đúng rồi, ",
-			"mình còn lấy được đồ ăn vặt từ con nhỏ chủ cửa hàng láu cá đó...",
+			"mình còn lấy được ít đồ ăn vặt từ con nhỏ chủ cửa hàng láu cá đó...",
 			"mình có nên cho \\str[120] thử không nhỉ?"
 		],
         "11": [
