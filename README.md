@@ -72,9 +72,9 @@ It does not contain the full game project or executable files.
 
 ## Notes 2
 
-This is a Thai translation by a fan only.
-
-It is not an official translation.
+This is not an official translation from the publisher or developer. 
+It is only a translation made by a fan of the game.
+There may be mistranslations or incomplete parts.
 
 ## License / usage
 
