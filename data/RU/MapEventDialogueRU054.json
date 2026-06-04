@@ -634,8 +634,8 @@
       "Я на цыпочках подошёл к дверям комнаты \\str[120]."
     ],
     "13": [
-      "\"*Пялится*... \\w[60]",
-      "Ч-что?!\""
+      "*Пялится* \\w[60]",
+      "\"Ч-что?!..\""
     ],
     "14": [
       "Я думал, \\str[120] дремлет,",
@@ -2516,10 +2516,13 @@
       "неизбежно растянулись до предела."
     ],
     "38.2": [
-      "At the same time, her extreme sensitivity caused ",
-      "every single fold to spasm violently, as if struck by electricity.",
-      "Like a conscious trap, she desperately resisted the intense pain and fullness,",
-      "yet the ultimate pleasure had her death-gripping my cock at her deepest reaches."
+      "В то же время её чрезвычайная чувствительность заставляла ",
+      "каждую складочку тела судорожно сжиматься, словно от удара током.",
+      "",
+      "",
+      "Словно в ловушке, она отчаянно сопротивлялась сильной боли и полноте, ",
+      "но наивысшее наслаждение заключалось в том, что она сжимала смертельной ",
+      "хваткой мой член в своих глубинах."
     ]
   }
 }
