@@ -1354,6 +1354,19 @@
         ],
         "ability": ""
     },
+    "150": {
+        "name": [
+            "Reaper Chili"
+        ],
+        "subtitle": "",
+        "description": [
+            "An ultra-spicy chili from the deep, radiating visible waves of heat",
+            "Eat it raw, and it will feel like your tongue is burning off!"
+        ],
+        "ability": [
+            "A spiciness intense enough to set anyone on fire!"
+        ]
+    },
     "151": {
         "name": [
             "Thịt Quái Vật"
@@ -2997,6 +3010,20 @@
         "ability": [
             ""
         ]
+    },
+    "480": {
+        "name": [
+            "The Power of Prayer"
+        ],
+        "subtitle": [
+            "\"As long as you offer your prayers,",
+            "every single problem in this world will just... vanish!\""
+        ],
+        "description": [
+            "Photos capturing the daily lives of the Tea Party girls…",
+            "but who took these pictures?"
+        ],
+        "ability": ""
     },
     "500": {
         "name": [
