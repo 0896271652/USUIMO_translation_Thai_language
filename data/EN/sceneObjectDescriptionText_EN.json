@@ -95,7 +95,7 @@
   ],
   "16": [
     "\\fr\\fs[28]\\c[114]Grand Labyrinth",
-    "\\fr\\fs[22]\\i[16]400",
+    "\\fr\\{\\i[16]400 \\fr",
     "✦Legend has it that the corridor, ",
     "abandoned by the gods, stretches infinitely here.",
     "Beneath the collapsed dome and twisting ancient ",
